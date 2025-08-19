@@ -4,7 +4,7 @@ Instrutor: Bryan Wilder (bwilder@andrew.cmu.edu)
 
 TAs: \
 Grisha Bandodkar (gbandodk@andrew.cmu.edu)\
-Maitreya Sawai (msawai@andrew.cmu.edu)
+Ben Chugg (benchugg@cmu.edu)
 
 
 Office hours: see schedule in Canvas
@@ -25,10 +25,10 @@ This course provides a place for students to practice the necessary mathematical
 | ---- | ----------- | ----------------------------------------------------------------------------------------------- | --------------------- |
 | 1    | Mon: Aug 26 | Class intro, sets [[Slides]](files/lecture_1.pptx)                                                                               |                       |
 | 1    | Wed: Aug 28 | Sets in python + linear algebra foundations [[Slides]](files/lecture_2.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1h7FW-hC8QS3maw_zXN-3DuGEOHlalYr9?usp=sharing)                                                                      |                       |
-| 1    | Fri: Aug 30 | No recitation                                                                                   | [Homework 1] due Sunday |
+| 1    | Fri: Aug 30 | No recitation                                                                                   | [Homework 1](/files/F25_10606_10607_hw1.pdf) due Sunday |
 | 2    | Mon: Sep 2  | No class (Labor day)                                                                            |                       |
 | 2    | Wed: Sep 4  | More linear algebra foundations + vector spaces [[Slides]](files/lecture_3.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1Oj8XMUWF5ApnHPU9kObXxmyMsakz6Gmd?usp=sharing)                                                         |                       |
-| 2    | Fri: Sep 6  | [Recitation]                                         | [Homework 2] due Sunday |
+| 2    | Fri: Sep 6  | [Recitation]                                         | [Homework 2](/files/F25_10606_10607_hw2.pdf) due Sunday |
 | 3    | Mon: Sep 9  | Linear functions and operators, eigenvalues [[Slides]](files/lecture_4.pptx)                                                                  |                       |
 | 3    | Wed: Sep 11 | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_matrices.pdf)                                                        |                       |
 | 3    | Fri: Sep 13 | Recitation                                                                                      | [Homework 3] due Sunday |
