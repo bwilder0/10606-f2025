@@ -28,7 +28,7 @@ This course provides a place for students to practice the necessary mathematical
 | 1    | Fri: Aug 29 | No recitation                                                                                   | [Homework 1](/files/F25_10606_10607_hw1.pdf) due Sunday |
 | 2    | Mon: Sep 1  | No class (Labor day)                                                                            |                       |
 | 2    | Wed: Sep 3  | More linear algebra foundations + vector spaces [[Slides]](files/lecture_3.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1Oj8XMUWF5ApnHPU9kObXxmyMsakz6Gmd?usp=sharing)                                                         |                       |
-| 2    | Fri: Sep 5  | [Recitation]                                         | [Homework 2](/files/F25_10606_10607_hw2.pdf) due Sunday |
+| 2    | Fri: Sep 5  | Recitation [[Problems]](/files/recitation1.pdf) [[Solutions]](/files/recitation1_solns.pdf)                                         | [Homework 2](/files/F25_10606_10607_hw2.pdf) due Sunday |
 | 3    | Mon: Sep 8  | Linear functions and operators, eigenvalues [[Slides]](files/lecture_4.pptx)                                                                  |                       |
 | 3    | Wed: Sep 10 | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_matrices.pdf) [[Practice problems]](files/F25_10606_Quiz_1_Practice_Problems.pdf) [[Solutions]](files/F25_10606_Quiz_Practice_Problems_Solutions.pdf)                                                      |                       |
 | 3    | Fri: Sep 12 | Recitation                                                                                      | [Homework 3] due Sunday |
