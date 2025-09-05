@@ -30,7 +30,7 @@ This course provides a place for students to practice the necessary mathematical
 | 2    | Wed: Sep 4  | More linear algebra foundations + vector spaces [[Slides]](files/lecture_3.pptx) [[Colab notebook]](https://colab.research.google.com/drive/1Oj8XMUWF5ApnHPU9kObXxmyMsakz6Gmd?usp=sharing)                                                         |                       |
 | 2    | Fri: Sep 6  | [Recitation]                                         | [Homework 2](/files/F25_10606_10607_hw2.pdf) due Sunday |
 | 3    | Mon: Sep 9  | Linear functions and operators, eigenvalues [[Slides]](files/lecture_4.pptx)                                                                  |                       |
-| 3    | Wed: Sep 11 | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_matrices.pdf)                                                        |                       |
+| 3    | Wed: Sep 11 | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_matrices.pdf) [[Practice Problems]](files/F25_10606_Quiz_1_Practice_Problems.pdf) [[Solutions]](files/F25_10606_Quiz_Practice_Problems_Solutions.pdf)                                                       |                       |
 | 3    | Fri: Sep 13 | Recitation                                                                                      | [Homework 3] due Sunday |
 | 4    | Mon: Sep 16 | Matrix inverses and linear regression [[Slides]](files/lecture_6.pptx)                                               |                       |
 | 4    | Wed: Sep 18 | Matrix factorization and low-rank structure [[Slides]](files/lecture_7.pptx)    |                       |
