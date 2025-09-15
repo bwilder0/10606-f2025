@@ -34,7 +34,7 @@ This course provides a place for students to practice the necessary mathematical
 | 3    | Fri: Sep 12 | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf)                                                                                     | [Homework 3](/files/F25_10606_HW3_Template%207.41.18 PM.pdf.pdf) due Sunday |
 | 4    | Mon: Sep 15 | Matrix inverses and linear regression [[Slides]](files/lecture_6.pptx)                                               |                       |
 | 4    | Wed: Sep 17 | Matrix factorization and low-rank structure [[Slides]](files/lecture_7.pptx)    |                       |
-| 4    | Fri: Sep 19 | Recitation                                                                                      | [[Homework 4]](hw4.pdf) due Sunday |
+| 4    | Fri: Sep 19 | Recitation                                                                                      | [[Homework 4]](files/hw4.pdf) due Sunday |
 | 5    | Mon: Sep 22 | Matrix calculus [[Slides]](files/lecture_8.pptx) [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)                                                              |                       |
 | 5    | Wed: Sep 24 | Quiz 2 + convexity and optimization [[Slides]](files/lecture_9.pptx) [[Notes on critical points]](files/lecture_9_notes.pdf)                                                             |                       |
 | 5    | Fri: Sep 26 | [Recitation]                                                                                     | [Homework 5] due Sunday |
