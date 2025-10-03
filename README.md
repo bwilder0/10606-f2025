@@ -40,7 +40,7 @@ This course provides a place for students to practice the necessary mathematical
 | 5    | Fri: Sep 26 | Recitation  [[Problems]](/files/recitation4.pdf) [[Solutions]](/files/recitation4_solns.pdf)                                                                                   | [[Homework 5]](/files/homework5.pdf) due Sunday |
 | 6    | Mon: Sep 29 | Optimization, gradient descent [[Colab notebook]](https://colab.research.google.com/drive/1Rn5TbWOO-Oc9PLwE_MigG6M_dQPTWQUu?usp=sharing) [[Slides]](files/lecture_9.pptx)                                                                                     |                       |
 | 6    | Wed: Oct 1  | Probability [[Slides]](files/lecture_11.pptx)                                                  |                       |
-| 6    | Fri: Oct 3  | [Recitation]                                                                                     | [Homework 6](/files/hw6.pdf) due Sunday |
+| 6    | Fri: Oct 3  | [Recitation] [[Problems]](/files/recitation5.pdf) [[Solutions]](/files/recitation5_solns.pdf)                                                                                    | [Homework 6](/files/hw6.pdf) due Sunday |
 | 7    | Mon: Oct 6  | Joint, marginal, and conditional distributions [[Slides]](files/lecture_12.pptx)                                               |                       |
 | 7    | Wed: Oct 8  | Estimation [[Slides]](files/lecture_13.pptx)                                                     |                       |
 | 7    | Fri: Oct 10 | Quiz 3                                                                                          | [Homework 7] due Sunday |
